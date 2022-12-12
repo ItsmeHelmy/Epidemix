@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 95b1d09960013e74f8aaa9e50c6d2640, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c03fadc8dd334494e930a73131498c85, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -283,7 +283,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1221232038}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: menuScript, Assembly-CSharp
         m_MethodName: quitGame
         m_Mode: 1
@@ -1297,7 +1297,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1221232036}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 617424725642f9b4cbde1cd9d5a89db4, type: 3}
+  m_Script: {fileID: 11500000, guid: 916bf37fd713bd14f87d2768bf519d31, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   nextScene: CutScene0
